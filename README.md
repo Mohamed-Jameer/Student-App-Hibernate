@@ -14,7 +14,4 @@
 - **Database**: MySQL (or any preferred database)
 - **Tools**: Eclipse/IntelliJ IDEA, Maven/Gradle
 
-## **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Student-App-Hibernate.git
+
